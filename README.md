@@ -4,7 +4,9 @@ Automating the rating and deletion of movies from the IMDb watchlist.
 
 ## Changes
 
-Added new functionality.
+#### New functionality:
+
+You can now search for movies and tv shows on IMDb and add them to watchlist
 
 You don't have to download the watchlist, the app now does it for you.
 
